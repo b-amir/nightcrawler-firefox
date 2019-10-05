@@ -1,14 +1,19 @@
 # nightcrawler-firefox
 A dark minimalistic theme for Firefox quantum, for those of us in the Night's Watch.
-<img src="https://raw.githubusercontent.com/theamirm/nightcrawler-vscode/master/banner.png" alt="banner" align="center" width="95%"/>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/theamirm/nightcrawler-vscode/master/banner.png" alt="banner" align="center" width="95%"/>
+</p>
 
 ## Screenshot
 Use (Emojis)[https://emojipedia.org] for bookmark folder names.
+
 <img src="https://raw.githubusercontent.com/theamirm/nightcrawler-firefox/master/scr.png" alt="Theme Screenshot" width="100%"/>
 
+
 You can set different containers with spesific accent colors in Firefox settings.
-<img src="https://raw.githubusercontent.com/theamirm/nightcrawler-firefox/master/containers.gif" alt="Theme Screenshot" align="middle" width="95%"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/theamirm/nightcrawler-firefox/master/containers.gif" alt="Theme Screenshot" align="middle" width="95%"/>
+</p>
 
 
 ## Install
