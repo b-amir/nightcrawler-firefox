@@ -5,25 +5,25 @@ A dark theme for Firefox quantum, for those of us in the Night's Watch.
 
 
 
-## Screenshot
-
-Screenshot from a basic create-react-app
-
+## Containers
+You can set different containers with spesific accent colors in Firefox settings.
 ![Theme Screenshot](https://raw.githubusercontent.com/theamirm/nightcrawler-firefox/master/containers.gif)
 
+
 ## Install
+1.  Type `about:config` in the address bar and hit Enter.
+2. Click on **I accept the risk**.
+3. Search for `toolkit.legacyUserProfileCustomizations.stylesheets` and change its value to **true**
+2. Type `about:support` in the address bar and hit Enter.
+3. in the *profile folder* row, click on **Open Folder**
+4. Download the **Chrome** folder from this repository and copy it into your profile folder.
+``` Profile Folder > Chrome > (Containing files) ```
+5. Restart Firefox.
 
-press `ctl/command + shift + p` to launch the command palette then run
-
-```
-ext install nightcrawler
-```
 
 ## Contributing
-
 Feel free to dive in! Open an issue or submit Pull requests.
 
 ## Also available (Coming soon)
-
 NightCrawler is also available for:
-Firefox Quantum | Telegram Desktop | Telegram Android
+VSCode | Telegram Desktop | Telegram Android
