@@ -1,6 +1,6 @@
 # nightcrawler-firefox
 A dark minimalistic theme for Firefox quantum, for those of us in the Night's Watch.
-<img src="https://raw.githubusercontent.com/theamirm/nightcrawler-vscode/master/banner.png" alt="banner" align="middle" width="95%"/>
+<img src="https://raw.githubusercontent.com/theamirm/nightcrawler-vscode/master/banner.png" alt="banner" align="center" width="95%"/>
 
 
 ## Screenshot
